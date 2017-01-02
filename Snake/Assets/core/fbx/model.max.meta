@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: d06a3be6a87f87d4db3a39064f2f0df8
+timeCreated: 1451249208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alien_engi1b
+    100002: Head
+    100004: LeftHand_1
+    100006: LeftHand_2
+    100008: LeftHand_3
+    100010: LeftLeg_1
+    100012: LeftLeg_2
+    100014: LeftLeg_3
+    100016: //RootNode
+    100018: RightHand_1
+    100020: RightHand_2
+    100022: RightHand_3
+    100024: RightLeg_1
+    100026: RightLeg_2
+    100028: RightLeg_3
+    100030: Sceleton_1
+    100032: Sceleton_2
+    100034: EthanGlasses
+    100036: EthanGlasses 1
+    100038: EthanHead
+    100040: EthanHead 1
+    100042: EthanHead1
+    100044: EthanHead1 1
+    100046: EthanHips
+    100048: EthanHips 1
+    100050: EthanJaw
+    100052: EthanJaw 1
+    100054: EthanLeftArm
+    100056: EthanLeftArm 1
+    100058: EthanLeftBlink
+    100060: EthanLeftBlink 1
+    100062: EthanLeftBrow
+    100064: EthanLeftBrow 1
+    100066: EthanLeftCorner
+    100068: EthanLeftCorner 1
+    100070: EthanLeftEye
+    100072: EthanLeftEye 1
+    100074: EthanLeftFoot
+    100076: EthanLeftFoot 1
+    100078: EthanLeftForeArm
+    100080: EthanLeftForeArm 1
+    100082: EthanLeftHand
+    100084: EthanLeftHand 1
+    100086: EthanLeftHandIndex1
+    100088: EthanLeftHandIndex1 1
+    100090: EthanLeftHandIndex2
+    100092: EthanLeftHandIndex2 1
+    100094: EthanLeftHandIndex3
+    100096: EthanLeftHandIndex3 1
+    100098: EthanLeftHandIndex4
+    100100: EthanLeftHandIndex4 1
+    100102: EthanLeftHandMiddle1
+    100104: EthanLeftHandMiddle1 1
+    100106: EthanLeftHandMiddle2
+    100108: EthanLeftHandMiddle2 1
+    100110: EthanLeftHandMiddle3
+    100112: EthanLeftHandMiddle3 1
+    100114: EthanLeftHandMiddle4
+    100116: EthanLeftHandMiddle4 1
+    100118: EthanLeftHandPinky1
+    100120: EthanLeftHandPinky1 1
+    100122: EthanLeftHandPinky2
+    100124: EthanLeftHandPinky2 1
+    100126: EthanLeftHandPinky3
+    100128: EthanLeftHandPinky3 1
+    100130: EthanLeftHandPinky4
+    100132: EthanLeftHandPinky4 1
+    100134: EthanLeftHandRing1
+    100136: EthanLeftHandRing1 1
+    100138: EthanLeftHandRing2
+    100140: EthanLeftHandRing2 1
+    100142: EthanLeftHandRing3
+    100144: EthanLeftHandRing3 1
+    100146: EthanLeftHandRing4
+    100148: EthanLeftHandRing4 1
+    100150: EthanLeftHandThumb1
+    100152: EthanLeftHandThumb1 1
+    100154: EthanLeftHandThumb2
+    100156: EthanLeftHandThumb2 1
+    100158: EthanLeftHandThumb3
+    100160: EthanLeftHandThumb3 1
+    100162: EthanLeftHandThumb4
+    100164: EthanLeftHandThumb4 1
+    100166: EthanLeftLeg
+    100168: EthanLeftLeg 1
+    100170: EthanLeftLowerLip
+    100172: EthanLeftLowerLip 1
+    100174: EthanLeftShoulder
+    100176: EthanLeftShoulder 1
+    100178: EthanLeftToe1
+    100180: EthanLeftToe1 1
+    100182: EthanLeftToe2
+    100184: EthanLeftToe2 1
+    100186: EthanLeftUpLeg
+    100188: EthanLeftUpLeg 1
+    100190: EthanLeftUpperLip
+    100192: EthanLeftUpperLip 1
+    100194: EthanLowerLip
+    100196: EthanLowerLip 1
+    100198: EthanNeck
+    100200: EthanNeck 1
+    100202: EthanRightArm
+    100204: EthanRightArm 1
+    100206: EthanRightBlink
+    100208: EthanRightBlink 1
+    100210: EthanRightBrow
+    100212: EthanRightBrow 1
+    100214: EthanRightCorner
+    100216: EthanRightCorner 1
+    100218: EthanRightEye
+    100220: EthanRightEye 1
+    100222: EthanRightFoot
+    100224: EthanRightFoot 1
+    100226: EthanRightForeArm
+    100228: EthanRightForeArm 1
+    100230: EthanRightHand
+    100232: EthanRightHand 1
+    100234: EthanRightHandIndex1
+    100236: EthanRightHandIndex1 1
+    100238: EthanRightHandIndex2
+    100240: EthanRightHandIndex2 1
+    100242: EthanRightHandIndex3
+    100244: EthanRightHandIndex3 1
+    100246: EthanRightHandIndex4
+    100248: EthanRightHandIndex4 1
+    100250: EthanRightHandMiddle1
+    100252: EthanRightHandMiddle1 1
+    100254: EthanRightHandMiddle2
+    100256: EthanRightHandMiddle2 1
+    100258: EthanRightHandMiddle3
+    100260: EthanRightHandMiddle3 1
+    100262: EthanRightHandMiddle4
+    100264: EthanRightHandMiddle4 1
+    100266: EthanRightHandPinky1
+    100268: EthanRightHandPinky1 1
+    100270: EthanRightHandPinky2
+    100272: EthanRightHandPinky2 1
+    100274: EthanRightHandPinky3
+    100276: EthanRightHandPinky3 1
+    100278: EthanRightHandPinky4
+    100280: EthanRightHandPinky4 1
+    100282: EthanRightHandRing1
+    100284: EthanRightHandRing1 1
+    100286: EthanRightHandRing2
+    100288: EthanRightHandRing2 1
+    100290: EthanRightHandRing3
+    100292: EthanRightHandRing3 1
+    100294: EthanRightHandRing4
+    100296: EthanRightHandRing4 1
+    100298: EthanRightHandThumb1
+    100300: EthanRightHandThumb1 1
+    100302: EthanRightHandThumb2
+    100304: EthanRightHandThumb2 1
+    100306: EthanRightHandThumb3
+    100308: EthanRightHandThumb3 1
+    100310: EthanRightHandThumb4
+    100312: EthanRightHandThumb4 1
+    100314: EthanRightLeg
+    100316: EthanRightLeg 1
+    100318: EthanRightLowerLip
+    100320: EthanRightLowerLip 1
+    100322: EthanRightShoulder
+    100324: EthanRightShoulder 1
+    100326: EthanRightToe1
+    100328: EthanRightToe1 1
+    100330: EthanRightToe2
+    100332: EthanRightToe2 1
+    100334: EthanRightUpLeg
+    100336: EthanRightUpLeg 1
+    100338: EthanRightUpperLip
+    100340: EthanRightUpperLip 1
+    100342: EthanSkeleton
+    100344: EthanSkeleton 1
+    100346: EthanSpine
+    100348: EthanSpine 1
+    100350: EthanSpine1
+    100352: EthanSpine1 1
+    100354: EthanSpine2
+    100356: EthanSpine2 1
+    100358: EthanUpperLip
+    100360: EthanUpperLip 1
+    400000: alien_engi1b
+    400002: Head
+    400004: LeftHand_1
+    400006: LeftHand_2
+    400008: LeftHand_3
+    400010: LeftLeg_1
+    400012: LeftLeg_2
+    400014: LeftLeg_3
+    400016: //RootNode
+    400018: RightHand_1
+    400020: RightHand_2
+    400022: RightHand_3
+    400024: RightLeg_1
+    400026: RightLeg_2
+    400028: RightLeg_3
+    400030: Sceleton_1
+    400032: Sceleton_2
+    400034: EthanGlasses
+    400036: EthanGlasses 1
+    400038: EthanHead
+    400040: EthanHead 1
+    400042: EthanHead1
+    400044: EthanHead1 1
+    400046: EthanHips
+    400048: EthanHips 1
+    400050: EthanJaw
+    400052: EthanJaw 1
+    400054: EthanLeftArm
+    400056: EthanLeftArm 1
+    400058: EthanLeftBlink
+    400060: EthanLeftBlink 1
+    400062: EthanLeftBrow
+    400064: EthanLeftBrow 1
+    400066: EthanLeftCorner
+    400068: EthanLeftCorner 1
+    400070: EthanLeftEye
+    400072: EthanLeftEye 1
+    400074: EthanLeftFoot
+    400076: EthanLeftFoot 1
+    400078: EthanLeftForeArm
+    400080: EthanLeftForeArm 1
+    400082: EthanLeftHand
+    400084: EthanLeftHand 1
+    400086: EthanLeftHandIndex1
+    400088: EthanLeftHandIndex1 1
+    400090: EthanLeftHandIndex2
+    400092: EthanLeftHandIndex2 1
+    400094: EthanLeftHandIndex3
+    400096: EthanLeftHandIndex3 1
+    400098: EthanLeftHandIndex4
+    400100: EthanLeftHandIndex4 1
+    400102: EthanLeftHandMiddle1
+    400104: EthanLeftHandMiddle1 1
+    400106: EthanLeftHandMiddle2
+    400108: EthanLeftHandMiddle2 1
+    400110: EthanLeftHandMiddle3
+    400112: EthanLeftHandMiddle3 1
+    400114: EthanLeftHandMiddle4
+    400116: EthanLeftHandMiddle4 1
+    400118: EthanLeftHandPinky1
+    400120: EthanLeftHandPinky1 1
+    400122: EthanLeftHandPinky2
+    400124: EthanLeftHandPinky2 1
+    400126: EthanLeftHandPinky3
+    400128: EthanLeftHandPinky3 1
+    400130: EthanLeftHandPinky4
+    400132: EthanLeftHandPinky4 1
+    400134: EthanLeftHandRing1
+    400136: EthanLeftHandRing1 1
+    400138: EthanLeftHandRing2
+    400140: EthanLeftHandRing2 1
+    400142: EthanLeftHandRing3
+    400144: EthanLeftHandRing3 1
+    400146: EthanLeftHandRing4
+    400148: EthanLeftHandRing4 1
+    400150: EthanLeftHandThumb1
+    400152: EthanLeftHandThumb1 1
+    400154: EthanLeftHandThumb2
+    400156: EthanLeftHandThumb2 1
+    400158: EthanLeftHandThumb3
+    400160: EthanLeftHandThumb3 1
+    400162: EthanLeftHandThumb4
+    400164: EthanLeftHandThumb4 1
+    400166: EthanLeftLeg
+    400168: EthanLeftLeg 1
+    400170: EthanLeftLowerLip
+    400172: EthanLeftLowerLip 1
+    400174: EthanLeftShoulder
+    400176: EthanLeftShoulder 1
+    400178: EthanLeftToe1
+    400180: EthanLeftToe1 1
+    400182: EthanLeftToe2
+    400184: EthanLeftToe2 1
+    400186: EthanLeftUpLeg
+    400188: EthanLeftUpLeg 1
+    400190: EthanLeftUpperLip
+    400192: EthanLeftUpperLip 1
+    400194: EthanLowerLip
+    400196: EthanLowerLip 1
+    400198: EthanNeck
+    400200: EthanNeck 1
+    400202: EthanRightArm
+    400204: EthanRightArm 1
+    400206: EthanRightBlink
+    400208: EthanRightBlink 1
+    400210: EthanRightBrow
+    400212: EthanRightBrow 1
+    400214: EthanRightCorner
+    400216: EthanRightCorner 1
+    400218: EthanRightEye
+    400220: EthanRightEye 1
+    400222: EthanRightFoot
+    400224: EthanRightFoot 1
+    400226: EthanRightForeArm
+    400228: EthanRightForeArm 1
+    400230: EthanRightHand
+    400232: EthanRightHand 1
+    400234: EthanRightHandIndex1
+    400236: EthanRightHandIndex1 1
+    400238: EthanRightHandIndex2
+    400240: EthanRightHandIndex2 1
+    400242: EthanRightHandIndex3
+    400244: EthanRightHandIndex3 1
+    400246: EthanRightHandIndex4
+    400248: EthanRightHandIndex4 1
+    400250: EthanRightHandMiddle1
+    400252: EthanRightHandMiddle1 1
+    400254: EthanRightHandMiddle2
+    400256: EthanRightHandMiddle2 1
+    400258: EthanRightHandMiddle3
+    400260: EthanRightHandMiddle3 1
+    400262: EthanRightHandMiddle4
+    400264: EthanRightHandMiddle4 1
+    400266: EthanRightHandPinky1
+    400268: EthanRightHandPinky1 1
+    400270: EthanRightHandPinky2
+    400272: EthanRightHandPinky2 1
+    400274: EthanRightHandPinky3
+    400276: EthanRightHandPinky3 1
+    400278: EthanRightHandPinky4
+    400280: EthanRightHandPinky4 1
+    400282: EthanRightHandRing1
+    400284: EthanRightHandRing1 1
+    400286: EthanRightHandRing2
+    400288: EthanRightHandRing2 1
+    400290: EthanRightHandRing3
+    400292: EthanRightHandRing3 1
+    400294: EthanRightHandRing4
+    400296: EthanRightHandRing4 1
+    400298: EthanRightHandThumb1
+    400300: EthanRightHandThumb1 1
+    400302: EthanRightHandThumb2
+    400304: EthanRightHandThumb2 1
+    400306: EthanRightHandThumb3
+    400308: EthanRightHandThumb3 1
+    400310: EthanRightHandThumb4
+    400312: EthanRightHandThumb4 1
+    400314: EthanRightLeg
+    400316: EthanRightLeg 1
+    400318: EthanRightLowerLip
+    400320: EthanRightLowerLip 1
+    400322: EthanRightShoulder
+    400324: EthanRightShoulder 1
+    400326: EthanRightToe1
+    400328: EthanRightToe1 1
+    400330: EthanRightToe2
+    400332: EthanRightToe2 1
+    400334: EthanRightUpLeg
+    400336: EthanRightUpLeg 1
+    400338: EthanRightUpperLip
+    400340: EthanRightUpperLip 1
+    400342: EthanSkeleton
+    400344: EthanSkeleton 1
+    400346: EthanSpine
+    400348: EthanSpine 1
+    400350: EthanSpine1
+    400352: EthanSpine1 1
+    400354: EthanSpine2
+    400356: EthanSpine2 1
+    400358: EthanUpperLip
+    400360: EthanUpperLip 1
+    2300000: alien_engi1b
+    3300000: alien_engi1b
+    4300000: alien_engi1b
+    4300002: EthanGlasses
+    4300004: EthanGlasses
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: EthanGlasses
+    13700002: EthanGlasses 1
+    13700004: alien_engi1b
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
