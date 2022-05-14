@@ -8,7 +8,7 @@ public class ExitButtonHandler : MonoBehaviour {
     /// Инициализация
     /// </summary>
     void Start () {
-        if (Application.isWebPlayer)
+        if (Application.platform == RuntimePlatform.WebGLPlayer)
             gameObject.SetActive(false);
 	}
     /// <summary>

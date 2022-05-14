@@ -258,7 +258,7 @@ static public class NGUIMath
 		RuntimePlatform platform = Application.platform;
 
 		if (platform == RuntimePlatform.WindowsPlayer ||
-			platform == RuntimePlatform.WindowsWebPlayer ||
+			platform == RuntimePlatform.WebGLPlayer ||
 			platform == RuntimePlatform.WindowsEditor ||
 			platform == RuntimePlatform.XBOX360)
 		{
@@ -279,7 +279,7 @@ static public class NGUIMath
 		RuntimePlatform platform = Application.platform;
 
 		if (platform == RuntimePlatform.WindowsPlayer ||
-			platform == RuntimePlatform.WindowsWebPlayer ||
+			platform == RuntimePlatform.WebGLPlayer ||
 			platform == RuntimePlatform.WindowsEditor ||
 			platform == RuntimePlatform.XBOX360)
 		{
