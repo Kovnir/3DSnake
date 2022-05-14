@@ -10,7 +10,9 @@ This game I wrote many years ago, when I was Junior. It was a test task for my f
 🦊 <b>Music</b>: mine, you can use it however you like.<br>
 🐻‍❄️ <b>Assets</b>: from asset store.<br>
 
-<img src="Doc/gameplay.gif" align="center">
+<div align="center">
+<img src="Doc/gameplay.gif">
+</div>
 
 ## How to use
 
