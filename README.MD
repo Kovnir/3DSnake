@@ -1,7 +1,7 @@
 <div align="center">
-# 3D Snake
+<h1>3D Snake</h1>
 
-⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️
+<b>⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️</b>
 
 This game I wrote many years ago, when I was Junior. It was a test task for my first REAL job. Please, don't use this code as example of how games whould be written. And don't judge me 🤷‍♂️
 </div>
@@ -11,7 +11,7 @@ Music: mine, you can use it however you like.
 Assets: from asset store.
 
 
-![GamePlay][gameplay]
+![GamePlay][Doc/gameplay.gif]
 
 ## How to use
 
