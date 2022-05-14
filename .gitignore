@@ -2,3 +2,7 @@ Snake/Library/
 Snake/obj/
 Snake/Temp/
 Snake/Logs/
+Snake/.idea/
+Snake/UserSettings/
+*.sln
+*.csproj
