@@ -16,4 +16,4 @@ This game I wrote many years ago, when I was Junior. It was a test task for my f
 
 ## How to use
 
-One the `MainMenu` scene and enjoy if the bugs don't bother you.
+Open the `MainMenu` scene and enjoy if the bugs don't bother you.
