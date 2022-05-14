@@ -6,12 +6,11 @@
 This game I wrote many years ago, when I was Junior. It was a test task for my first REAL job. Please, don't use this code as example of how games whould be written. And don't judge me 🤷‍♂️
 </div>
 
-Unity version: written on 5.5.0f3, updated to 2021.2.15f1.
-Music: mine, you can use it however you like.
-Assets: from asset store.
+🐶 Unity version: written on 5.5.0f3, updated to 2021.2.15f1.<br>
+🦊 Music: mine, you can use it however you like.<br>
+🐻‍❄️ Assets: from asset store.<br>
 
-
-![GamePlay][Doc/gameplay.gif]
+<img src="Doc/gameplay.gif">
 
 ## How to use
 
